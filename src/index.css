@@ -1,0 +1,10 @@
+body{color: #000000;
+ background-color: #ffffff;
+}
+
+.navbar-dark {
+    --bs-navbar-color: rgb(255, 255, 255);
+    --bs-navbar-hover-color: #28ff08;
+    --bs-navbar-brand-color: #ffffff;
+    --bs-navbar-brand-hover-color: #28ff08;
+}
